@@ -30,7 +30,7 @@ Colocar estos archivos en la misma carpeta que todos los demás archivos.
 ## Instalar flex y bison
 
 - [Descargar winflexbison para windows](https://github.com/lexxmark/winflexbison/releases)
-- Descomprimirlo y colocarlo dentro de archivos de programas los archivos descargados.
+- Descomprimirlo y colocarlo dentro de "archivos de programas", los archivos descargados.
 - Registrar la ruta en variables de entorno.
 - Comprobar si estan registrados correctamente (deben mostrar la versión al ejecutarse en el cmd)
 ```
